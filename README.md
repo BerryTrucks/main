@@ -7,13 +7,22 @@ We are BlackBerry 10 platform fans and users. BB10 is a unique development in te
 * Foster the BB10 free/libre open source ecosystem by tweaking and improving the existing apps
 * Suggest a new development and distribution channel not tied to a central vendor
 
-## Where to from here?
+## I am a user
+And so are we!
 
-* Explore the available [apps](https://github.com/BerryTrucks)
+* See the [released and working](https://github.com/BerryTrucks?q=topic%3Areleased) apps - they all have `bar` files attached under **Releases**.
+* Install them using [Sachesi](https://github.com/xsacha/Sachesi/releases/tag/2.0.4) or the [Chrome extension](https://chrome.google.com/webstore/detail/bb10-playbook-app-manager/kmbaalodpmjjhpobkgljnelbpblnikkp)
+
+Have an app you want to see in the BerryTrucks garage? Suggest one in the [issues section](https://github.com/BerryTrucks/main/issues).
+
+## I am a developer
+
+* Explore the available [repos](https://github.com/BerryTrucks)
+* See if you can contribute to any apps that [need help](https://github.com/BerryTrucks?q=topic%3Ahelp-wanted)
 * Read the [wiki](https://github.com/BerryTrucks/main/wiki)
 * Start hacking!
 
-Have an app you want to see in the BerryTrucks garage? Suggest one in the [issues section](https://github.com/BerryTrucks/main/issues).
+Do you have a BB10 / Playbook project and considering releasing the source code? Talk to us on [Telegram](https://t.me/berryfarm_org)!
 
 ## See also
 
