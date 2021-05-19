@@ -1,5 +1,7 @@
 # BerryTrucks
 
+<img src="https://user-images.githubusercontent.com/58649917/118752109-deae1f80-b8a5-11eb-8076-e13dae8be2d8.png"/>
+
 ## Our mission
 We are BlackBerry 10 platform fans and users. BB10 is a unique development in technology featuring the QNX operating system coupled with a streamlined UX and a lot of innovation on the UI side. The BB10 apps are quick, smart and fluid. BerryTrucks are here to:
 
